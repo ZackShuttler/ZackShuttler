@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZackShuttler
-- 👀 I’m interested in Java,C+,C#
+- 👀 I’m interested in Java,C+,C#, Javascript, PhP, Html5, CSS
 - 🌱 I’m currently learning Python
 - 📫 How to reach me jdrs.25@hotmail.com
 
